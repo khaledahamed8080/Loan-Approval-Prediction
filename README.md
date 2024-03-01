@@ -100,7 +100,7 @@ For optimization we are using Cross Validation and Hyper Parameter Tuning.
 ```
 
 #### Results after Hyperparameter Tuning:
-![aftertuning](https://github.com/khaledahamed8080/Loan-Approval-Prediction/blob/main/output/aftertuning.PNG)?raw=true)
+![aftertuning](https://github.com/khaledahamed8080/Loan-Approval-Prediction/blob/main/output/aftertuning.PNG?raw=true)
 
 
 ### Lessons Learned
